@@ -17,7 +17,7 @@ public class Overloading1
    
    public static void main(String []args)
    {
-     Overloading o=new Overloading();
+     Overloading1 o=new Overloading1();
      o.mth();
      o.mth(10);
      o.mth("prabhu");
