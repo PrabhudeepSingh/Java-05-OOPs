@@ -6,7 +6,7 @@ class Parent
   }
 }
 
-class Overriding1 extends Parent
+class Overriding2 extends Parent
 { 
   public String mth()// child class method return type need not be same as parent method return type its child type also allowed
   {
